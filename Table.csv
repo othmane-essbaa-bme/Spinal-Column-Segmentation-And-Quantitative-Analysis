@@ -1,0 +1,2 @@
+"Segment","Voxel count (LM)","Volume mm3 (LM)","Volume cm3 (LM)","Voxel count (SV)","Volume mm3 (SV)","Volume cm3 (SV)","Minimum","Maximum","Mean","Standard deviation","Percentile 5","Percentile 95","Median","Surface mm2","Volume mm3 (CS)","Volume cm3 (CS)"
+"Part 1 - Segmentation of complete spine and removing rib cage connections.",462550,503947,503.947,462550,503947,503.947,230,1384,472.701,198.192,271,910,406,133530,501285,501.285
